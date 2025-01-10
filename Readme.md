@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/zelaxo/lazlodb/master/lazlo-logo-max.png">
 </p>
 
-### Lazlo is a portable, compact & serverless NoSql database built using Node JS & MessagePack
+### Lazlo is a serverless NoSql database built using Node JS & MessagePack
 
 ## Installation
 * Full Database
@@ -14,7 +14,7 @@ npm install -g lazlodb
 ```sh
 lazlo
 ```
-* Lightweight Node JS Library (Official Repository : [lazlo-node](https://github.com/zelaxo/lazlo-node))
+* Lightweight Node JS Library (Repository : [lazlo-node](https://github.com/caprico-codes/lazlo-node))
 ```sh
 npm install lazlo-node
 ```
@@ -40,4 +40,4 @@ npm install lazlo-node
 * simple-node-logger
 * edit-json-file
 
-## For usage info refer the [docs](https://github.com/zelaxo/lazlodb/wiki)
+## For usage info refer the [docs](https://github.com/caprico-codes/lazlodb/wiki)
